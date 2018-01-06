@@ -4,7 +4,7 @@
 - 爬取租房网站上的信息
 - 示例图如下 （12.29 更新）
 
-![租房爬虫](https://github.com/Crayoncyann/crawler/blob/master/screenshots/crawler.gif)
+![租房爬虫](https://github.com/Crayoncyann/crawler/blob/master/screenshots/crawler.jpg)
 
 
 ## 基本功能
